@@ -1,0 +1,1 @@
+export function square_root(...args: any[]): any;
